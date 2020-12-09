@@ -15,6 +15,6 @@ We used Machine Learning to make a model using scikit-learn, pandas, numpy, seab
 
 **Model Implemention**
 
-**Random Forest Classifier.**
-The main goal of our Project was to Predict the winner of ICC Cricket World Cup 2019 using Random Forest Classifier.
+**Random Forest Classifier.**__
+The main goal of our Project was to Predict the winner of ICC Cricket World Cup 2019 using Random Forest Classifier.RFs train each tree independently, using a random sample of the data. This randomness helps to make the model more robust than a single decision tree, and less likely to overfit on the training data.
 We had the rankings of the teams participating in the tournament and gave higher priority to higher ranked teams to win.
